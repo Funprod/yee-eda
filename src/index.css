@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    /* Цвета */
+    --lime-50: #ffffd3;
+    --lime-150: #d7ff94;
+    --lime-300: #c4ff61;
+    --lime-600: #2db100;
+    --gray-400: #a0aec0;
+
+    /* Шрифты */
+    --font-family: 'Inter', system-ui, Helvetica, Arial, sans-serif;
+    --second-family: 'Roboto', sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #fff;
+}
